@@ -7,3 +7,4 @@ puts "The number #{number} is a cool number!"
 puts "Can you dance"
 dance = gets.chomp
 puts "Well everyone has their own way of expressing their interests"
+puts "Well, goodbye for now!"
